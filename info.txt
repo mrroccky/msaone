@@ -1,0 +1,32 @@
+assignment 1 create you biodata using following instruction
+1. center of the screen- boidaat
+2. center of the screen with bold letter - you name
+3. display horizontal line <hr>
+4. center of the screen with underline formate- you email
+5. highlight you mobile number (center of screen) marqee
+6. display horizontal line 
+7. center of the screen- qualification detail
+8. display yuor qualificTION detail in following formate
+	1.UG
+	. your Collage name
+	. passout year
+	. persantage
+	2.PG
+	.collage name
+	. passout year
+	.persantage - highlight
+9. display horizontal line <hr>
+10. center of the screen - display internshoip detail
+	sno	Company Name	HR Name 	Servises
+	1	TCs		xyz		a.webdebelopemtn
+						b. seo
+						c. degital marketing
+	2	Infosys		madhukar	a.web development
+						b. ai Development
+11. display horizontal line
+
+12. center of the screen - developed by 
+13. you name - moving computer screen   marquee	
+
+
+
